@@ -6,6 +6,7 @@
 ## Description
 **Demo app for product optimization in two ways:**
 ### 1. Maximization Profit:
+Maximization of profit with limited resources.
   - **Table view:**
     |**resources**|**Product 1**|**Product 2**|**...**|**Product N**| Count|
     |---|---|---|---|---|--|
@@ -23,6 +24,7 @@
     $$product_i>=0 \quad i=(1,n)$$
       
 ### 2. Minimization Cost:
+Minimization of cost with min number of use of resources.
   - **Table view:**
     |**resources**|**Product 1**|**Product 2**|**...**|**Product N**| Count|
     |---|---|---|---|---|--|
