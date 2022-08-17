@@ -1,5 +1,5 @@
 # Demo Production optimization
-
+![demo](img/demo_viz.png)
 ## Runnig demo app :nut_and_bolt:
 - Clone project;
 - Run `streamlit run app.py` command in terminal.
